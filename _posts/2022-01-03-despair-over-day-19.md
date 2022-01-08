@@ -1,6 +1,6 @@
 # Despair
 
-![Sadness.](assets/adventofcode2021-47stars.png)
+![Sadness.](/assets/adventofcode2021-47stars.png)
 
 It has been 8 days since Christmas, counting today. I have still not saved Christmas, due to day 19. Just reading the problem description, I am too demoralized to even begin an attempt.
 
