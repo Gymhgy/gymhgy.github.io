@@ -14,7 +14,7 @@ From there, I picked off 24, then 23, 22, and finally 19 for last. Most problems
 
 Over the next few days I plan to write about some of my solutions, showcasing the horrible code that I've written.
 
-#Day 19
+# Day 19
 What better day to start with than this one? If you wish to read the problem text, [here you go](https://adventofcode.com/day/19).
 
 ```csharp
