@@ -149,7 +149,7 @@ Answer is in the `min` variable. Piece of metaphorical cake.
 
 # Day 9!
 
-1 of 5 perfect-suare advent calendar days. This day asked to move the "head" of a rope bridge around, and model the behavior of the "tail". Read here: https://adventofcode.com/2022/day/9
+1 of 5 perfect-square advent calendar days. This day asked to move the "head" of a rope bridge around, and model the behavior of the "tail". Read here: https://adventofcode.com/2022/day/9
 
 <script src="https://emgithub.com/embed-v2.js?target=https%3A%2F%2Fgithub.com%2FGymhgy%2FAdvent-of-Code-2022%2Fblob%2Fmaster%2Fday9%2Fday9.dib&style=default&type=code&showBorder=on&showLineNumbers=on&showFileMeta=on&showFullPath=on&showCopy=on"></script>
 
