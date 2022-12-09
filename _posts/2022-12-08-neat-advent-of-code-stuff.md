@@ -1,4 +1,4 @@
-# Neat Advent of Code Stuff: (Days 7 & 9)
+# Neat Advent of Code Stuff: (Days 7 &amp; 9)
 
 ![image](https://user-images.githubusercontent.com/49801033/206646340-42dd905e-49ba-4c52-a5ad-e244776cffed.png)
 
